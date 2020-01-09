@@ -3,7 +3,9 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-obj
+obj/*
 bin/*
 appsettings.json
 appsettings.Development.json
+
+
