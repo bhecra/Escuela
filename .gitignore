@@ -4,6 +4,6 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 obj
-bin
+bin/*
 appsettings.json
 appsettings.Development.json
